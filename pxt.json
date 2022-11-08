@@ -7,7 +7,8 @@
         "microphone": "*",
         "Module-World": "github:YahboomTechnology/Module-World#4bad43a8128f8529d911b0033e7062d7972a5cf4",
         "tm1650": "github:YahboomTechnology/tm1650#d74a76c7400108f4658351d4a0e743fc776f3493",
-        "radio-broadcast": "*"
+        "radio-broadcast": "*",
+        "Module_World_Color": "github:YahboomTechnology/module_world_color#70b5ef663fd1e4034cd0bc53ce4ba97779f30a78"
     },
     "files": [
         "main.blocks",
